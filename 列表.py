@@ -58,10 +58,10 @@ print(b[1:3])
 # print(type(c))
 # print(type(v))
 #创建字典的同时需要创建键值对
-d={'rd':1,
-   'ff':2
-}
-print(d)
+# d={'rd':1,
+#    'ff':2
+# }
+# print(d)
 #可以使用in来查找字典里面是否存在key
 #
 # print('rd'in d)
